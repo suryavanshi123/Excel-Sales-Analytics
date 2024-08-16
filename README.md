@@ -1,6 +1,6 @@
+Excel - Sales Analytics
 
 🎯 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞
-
 AtliQ Hardware, a hardware retail company, offers a range of products such as PCs, mouse, printers, etc. Its customers like Croma, Amazon, Best Buy Flipkart, etc. 
 
  📈 The Report Consistes of :
