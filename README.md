@@ -3,6 +3,16 @@
 
 AtliQ Hardware, a hardware retail company, offers a range of products such as PCs, mouse, printers, etc. Its customers like Croma, Amazon, Best Buy Flipkart, etc. 
 
+ 📈 The Report Consistes of :
+Sales Reort
+1. Customer Performance report
+2. Division Level
+3. Market Performance Report
+4. New products-2021
+5. Top & Bottom 5 products
+6. Top 5 countries
+7. Top 10 Products
+ 
 Problem Statement:
  AtliQ Hardwares, a global hardware giant, faces the challenge of optimizing sales and improving net gross margins.
 
